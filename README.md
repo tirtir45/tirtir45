@@ -1,3 +1,5 @@
+<div align="center">
+
 # ₊˚⊹ ᰔ Hey, I'm Rym! ₊˚⊹ ᰔ
 
 Computer Science student at Esprit University 🎓  
@@ -27,6 +29,7 @@ Passionate about **Cybersecurity** and **Biology** 🔐🧬
 
 🌸 [Portfolio Website](https://rymstportfolio.netlify.app)
 
+</div>
 ---
 
 <div align="center">
