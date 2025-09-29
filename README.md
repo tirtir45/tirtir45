@@ -10,7 +10,6 @@
 ### ━━━━━━ ◦ ❖ ◦ ━━━━━━
 
 *Exploring the intersection of technology and science*  
-*One line of code at a time*
 
 ### ━━━━━━ ◦ ❖ ◦ ━━━━━━
 
@@ -28,10 +27,13 @@
 
 ## ✧ TECH ARSENAL ✧
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
@@ -53,9 +55,7 @@
 
 ### ━━━━━━ ◦ ❖ ◦ ━━━━━━
 
-*"In the darkness, we find our light through code"*
-
-₍ᐢ. .ᐢ₎ 🖤
+*Thanks for stopping by! ₍ᐢ. .ᐢ₎*
 
 ### ━━━━━━ ◦ ❖ ◦ ━━━━━━
 
