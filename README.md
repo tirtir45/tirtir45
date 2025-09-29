@@ -1,53 +1,64 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/tirtir45/tirtir45/main/ad4317f6cc4dbf9078cf468cf490b481.jpg" width="100%" />
 
-# ₊˚⊹ ᰔ Hey, I'm Rym! ₊˚⊹ ᰔ
+# ₊˚⊹ ᰔ RYM ᰔ ⊹˚₊
 
-Computer Science student at Esprit University 🎓  
-Passionate about **Cybersecurity** and **Biology** 🔐🧬
+### *Computer Science Student | Esprit University*
 
-## ✦ About Me
+---
 
-💻 Exploring the intersection of technology and science  
-🎮 Gamer | 📚 Fiction reader | 🎵 Music lover  
-🐢 Building projects at my own pace  
-🌱 Always learning something new
+### ━━━━━━ ◦ ❖ ◦ ━━━━━━
 
-## 🛠️ Tech Stack
+*Exploring the intersection of technology and science*  
+*One line of code at a time*
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### ━━━━━━ ◦ ❖ ◦ ━━━━━━
 
-## 📊 GitHub Stats
+<br>
 
-![tirtir45's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirtir45&show_icons=true&theme=vue&hide_border=true)
+## ✧ ABOUT ME ✧
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirtir45&layout=compact&theme=vue&hide_border=true)
+```
+🎮  Gamer          │  📚  Fiction Reader
+🎵  Music Lover    │  🐢  Steady Progress
+🌱  Always Learning │  🔐  Security Focused
+```
 
-## 🌐 Connect With Me
+<br>
 
-🌸 [Portfolio Website](https://rymstportfolio.netlify.app)
+## ✧ TECH ARSENAL ✧
 
-────୨ৎ────
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## ✧ GITHUB STATS ✧
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tirtir45&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tirtir45&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtir45&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+
+<br>
+
+## ✧ CONNECT ✧
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://rymstportfolio.netlify.app)
+
+---
+
+### ━━━━━━ ◦ ❖ ◦ ━━━━━━
+
+*"In the darkness, we find our light through code"*
+
+₍ᐢ. .ᐢ₎ 🖤
+
+### ━━━━━━ ◦ ❖ ◦ ━━━━━━
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer" width="100%"/>
+
 </div>
-<div align="center">
-
-*Thanks for stopping by!* ₍ᐢ. .ᐢ₎ 💚
-
-</div>
-
-<!--
-**tirtir45/tirtir45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
