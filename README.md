@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/tirtir45/tirtir45/main/ad4317f6cc4dbf9078cf468cf490b481.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/tirtir45/tirtir45/main/ad4317f6cc4dbf9078cf468cf490b481.jpg" width="100%" height="250px" style="object-fit: cover;" />
 
 # ₊˚⊹ ᰔ RYM ᰔ ⊹˚₊
 
