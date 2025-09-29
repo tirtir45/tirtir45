@@ -29,9 +29,8 @@ Passionate about **Cybersecurity** and **Biology** 🔐🧬
 
 🌸 [Portfolio Website](https://rymstportfolio.netlify.app)
 
+────୨ৎ────
 </div>
----
-
 <div align="center">
 
 *Thanks for stopping by!* ₍ᐢ. .ᐢ₎ 💚
